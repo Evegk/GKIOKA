@@ -5,5 +5,5 @@
 *Regression Case Study
 *Clusterring
 *Clusterring Case Study
-!{1.200 × 630}(https://elearningekpa.gr/images/ekpa-elearning-open-graph-image--opt.jpg)
+![1.200 × 630](https://elearningekpa.gr/images/ekpa-elearning-open-graph-image--opt.jpg)
 
